@@ -1,0 +1,13 @@
+1. Install python Link: https://www.python.org/downloads/
+
+IMPORTANT: Make sure to click the checkbox in the Python installer to add Python to PATH
+
+2. When install is done, open command prompt and type these commands:
+(Make sure to type one command line and wait until it is finished installing before entering the next command)
+
+pip install pttsx3
+pip install gtts
+pip install soundfile
+pip install moviepy
+pip install requests
+pip install beautifulsoup4
